@@ -1,0 +1,160 @@
+{
+  "status": "Crop photography attribution register",
+  "assets": [
+    {
+      "file": "images/cassava-fields.webp",
+      "title": "Cassava field",
+      "crop": "Cassava",
+      "description": "Cassava plants covering a hillside in Rwanda.",
+      "credit": "Provided to Agri View",
+      "license": "Provided for use in Agri View",
+      "source": "Supplied by the site contributor for use in Agri View."
+    },
+    {
+      "file": "images/maize-harvest.webp",
+      "title": "Maize harvest",
+      "crop": "Maize",
+      "description": "A farmer holds mature maize cobs in a field.",
+      "credit": "Provided to Agri View",
+      "license": "Provided for use in Agri View",
+      "source": "Supplied by the site contributor for use in Agri View."
+    },
+    {
+      "file": "images/coffee-harvest.webp",
+      "title": "Coffee harvest",
+      "crop": "Coffee",
+      "description": "A farmer picking ripe coffee cherries.",
+      "credit": "Provided to Agri View",
+      "license": "Provided for use in Agri View",
+      "source": "Supplied by the site contributor for use in Agri View."
+    },
+    {
+      "file": "images/coffee-blossoms.webp",
+      "title": "Coffee blossoms",
+      "crop": "Coffee",
+      "description": "A farmer examining flowering coffee plants.",
+      "credit": "Provided to Agri View",
+      "license": "Provided for use in Agri View",
+      "source": "Supplied by the site contributor for use in Agri View."
+    },
+    {
+      "file": "images/tea-harvest.webp",
+      "title": "Tea harvest",
+      "crop": "Tea",
+      "description": "Tea workers carrying harvested leaves through a plantation.",
+      "credit": "Provided to Agri View",
+      "license": "Provided for use in Agri View",
+      "source": "Supplied by the site contributor for use in Agri View."
+    },
+    {
+      "file": "images/beans-rwanda.webp",
+      "title": "Green bean farm",
+      "crop": "Beans",
+      "description": "Green beans growing in a Rwandan farm plot.",
+      "credit": "UWIMPUHWE Va",
+      "source": "https://commons.wikimedia.org/wiki/File:Green_beans_farm.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "file": "images/cassava-rwanda-commons.webp",
+      "title": "Cassava farming",
+      "crop": "Cassava",
+      "description": "A farmer tending cassava plants in Rwanda.",
+      "credit": "Peace Batuma",
+      "source": "https://commons.wikimedia.org/wiki/File:Cassava_Farming.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "file": "images/irish-potato-rwanda.webp",
+      "title": "Irish potato harvest",
+      "crop": "Irish potato",
+      "description": "Freshly harvested Irish potatoes in Western Rwanda.",
+      "credit": "DUSABEMUNGU Ange de la Victoire",
+      "source": "https://commons.wikimedia.org/wiki/File:Harvest_of_Irish_potatoes_in_Rwanda_West,_EWRM_Project.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "file": "images/sweet-potato-rwanda.webp",
+      "title": "Sweet potatoes and beans",
+      "crop": "Sweet potato",
+      "description": "A traditional Rwandan dish made with sweet potatoes and beans.",
+      "credit": "Umurigirwa",
+      "source": "https://commons.wikimedia.org/wiki/File:This_Food_is_a_some_Rwandan_culture_food(_sweet_potatoes_and_beans).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "file": "images/banana-rwanda.webp",
+      "title": "Banana plantation",
+      "crop": "Banana",
+      "description": "A small Gros Michel banana plantation in Eastern Rwanda.",
+      "credit": "Synkubito",
+      "source": "https://commons.wikimedia.org/wiki/File:Banana_plantation_on_small_area.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "file": "images/rice-rwanda.webp",
+      "title": "Rice fields in Karongi",
+      "crop": "Paddy rice",
+      "description": "Rice fields beneath cloudy skies in Karongi, Rwanda.",
+      "credit": "Irakoze",
+      "source": "https://commons.wikimedia.org/wiki/File:Karongirice2.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "file": "images/sorghum-rwanda.webp",
+      "title": "Winnowing sorghum",
+      "crop": "Sorghum",
+      "description": "Women from a farming cooperative winnowing sorghum after harvest.",
+      "credit": "Joseph Lionceau",
+      "source": "https://commons.wikimedia.org/wiki/File:Women_fanning_Sorghum_seeds.png",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "file": "images/wheat-rwanda.webp",
+      "title": "Wheat plantation near Sabyinyo",
+      "crop": "Wheat",
+      "description": "A wheat plantation near Mount Sabyinyo in Rwanda.",
+      "credit": "Mrbobax",
+      "source": "https://commons.wikimedia.org/wiki/File:Ingano.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "file": "images/vegetables-rwanda.webp",
+      "title": "African eggplant trial",
+      "crop": "Vegetables",
+      "description": "African eggplant varieties growing in a field trial in Karongi, Rwanda.",
+      "credit": "St Lucky R",
+      "source": "https://commons.wikimedia.org/wiki/File:African_eggplants_Variety_Trial_Karongi_Rwanda.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "file": "images/fruits-rwanda.webp",
+      "title": "Fruit stand in Kigali",
+      "crop": "Fruits and horticulture",
+      "description": "A fruit stand in Kigali, Rwanda.",
+      "credit": "Antoshananarivo",
+      "source": "https://commons.wikimedia.org/wiki/File:Rwanda_fruits.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "file": "images/soybean-field.webp",
+      "title": "Soybean field",
+      "crop": "Soybean",
+      "description": "Soybean rows in the United States; included as an illustrative crop photograph.",
+      "credit": "United Soybean Board",
+      "source": "https://commons.wikimedia.org/wiki/File:Soybean_Field_(9620648331).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+    }
+  ]
+}
